@@ -38,7 +38,7 @@ Sudoku Solver is a web application that allows users to input a Sudoku puzzle an
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/SudokuSolver.git
+   git clone https://github.com/Jeevan2305/Sudoku_Solver.git
    ```
 
 2. Open the project folder:
